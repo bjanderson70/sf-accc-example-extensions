@@ -1,10 +1,10 @@
-# Salesforce App
+# Extensions to ACCC (Salesforce)
 
-This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
+The intent is to provide examples of How-To extend the framework for Salesforce developers.
 
 ## Part 1: Choosing a Development Model
 
-There are two types of developer processes or models supported in Salesforce Extensions for VS Code and Salesforce CLI. These models are explained below. Each model offers pros and cons and is fully supported.
+These samples add-ons/examples done in VS Code and Salesforce CLI.
 
 ### Package Development Model
 
