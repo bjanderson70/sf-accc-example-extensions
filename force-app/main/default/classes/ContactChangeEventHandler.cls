@@ -136,7 +136,7 @@ public with sharing class ContactChangeEventHandler extends accc_CDCEventBase {
      * @return void
      **/
     @TestVisible
-    protected override void afterOnAfterInsertChild() {
+    public  override void onAfterInsertChild(List<SObject> newItems) {
         /* STEP 5....
          * START - USE FOR TESTING
          */
